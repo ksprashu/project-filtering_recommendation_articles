@@ -1,4 +1,4 @@
-# Recommendations with IBM Watson
+# Recommendations of IBM Watson articles
 
 ## Overview
 In this project I will be using the dataset of articles that a user has seen on IBM and will build a recommender to suggest additional articles that the user would be interested in seeing. I will build recommendation systems based on rank. 
